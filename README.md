@@ -8,6 +8,8 @@ This project focuses on building a machine learning model to classify emails as 
 
 # Introduction:
 
+<img src="https://github.com/Gtshivanand/EMAIL-SPAM-DETECTION-WITH-MACHINE-LEARNING/blob/main/EMAIL%20SPAM%20DETECTION%20WITH%20MACHINE%20LEARNING/images/EmailSpamDetection.jpg"/>
+
 Email spam detection is a critical task in cybersecurity, where the goal is to identify and filter out unsolicited and harmful messages, often referred to as "spam" emails. These emails are typically sent in bulk for purposes such as advertising, phishing, or spreading malware. The challenge lies in accurately distinguishing between legitimate emails (ham) and spam, especially as spam techniques evolve over time.
 
 With the rise of email usage, the volume of spam messages has increased significantly, making it necessary to develop automated systems that can detect and filter these emails efficiently. Machine learning (ML) offers an effective solution to this problem by using algorithms that can learn patterns from historical email data and classify incoming messages as spam or non-spam (ham).
